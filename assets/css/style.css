@@ -71,7 +71,7 @@ a:focus{
 	background-repeat:no-repeat;
 	margin:0 auto;
 	width:100%;
-	background-size:cover;
+	background-size:cover !important;
 }
 
 .pattern{
@@ -950,7 +950,14 @@ form.news-letter .btn:hover{
 	}
 		#contact-form  .btn{
 	border-left:1px solid #fff;
-	}
+		}
+
+		.margin-top-mobile .col-sm-4{
+		    margin-top: 15px;
+		}
+		.section-style{
+		    background-repeat:repeat-y !important;
+		}
 }
 
 /* 9.2 - media screen and (max-width: 768px) End

@@ -1190,6 +1190,12 @@ background: #00aaff;
 	}
 }
 
+.disclaimer {
+    color: rgba(26, 26, 26, 0.27);
+    font-size: 10px;
+    text-align: center;
+}
+
 /* 10 - Preloader End
 ---------------------------------------------------------------------- */
 

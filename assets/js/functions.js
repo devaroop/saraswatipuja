@@ -43,7 +43,7 @@ jQuery(document).ready(function($) {
 		scrollSpeed: 750,
 		scrollThreshold: 0.5,
 		scrollOffset: 0,
-		filter: '',
+	  filter: ':not(.external)',
 		easing: 'swing'
 	});  
 

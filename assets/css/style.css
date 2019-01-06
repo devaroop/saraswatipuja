@@ -1196,6 +1196,10 @@ background: #00aaff;
     text-align: center;
 }
 
+.impinfo {
+    background-color:red;
+}
+
 /* 10 - Preloader End
 ---------------------------------------------------------------------- */
 
@@ -1426,3 +1430,4 @@ ul.ribbon-badge li.tail:after{
   font-size:18px;
         color:#1b8eff;
 }
+

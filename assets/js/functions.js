@@ -56,9 +56,9 @@ jQuery(document).ready(function($) {
 	-------------------------------------------------------------------*/
 	$('#time_countdown').countDown({
           targetDate: {
-            'day': 9,
+            'day': 1,
             'month': 2,
-            'year': 2019,
+            'year': 2020,
             'hour': 12,
             'min': 0,
             'sec': 0

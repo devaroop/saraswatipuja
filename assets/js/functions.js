@@ -56,9 +56,9 @@ jQuery(document).ready(function($) {
 	-------------------------------------------------------------------*/
 	$('#time_countdown').countDown({
           targetDate: {
-            'day': 20,
+            'day': 5,
             'month': 2,
-            'year': 2021,
+            'year': 2022,
             'hour': 12,
             'min': 0,
             'sec': 0

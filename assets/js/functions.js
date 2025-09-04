@@ -56,9 +56,9 @@ jQuery(document).ready(function($) {
 	-------------------------------------------------------------------*/
 	$('#time_countdown').countDown({
           targetDate: {
-            'day': 1,
-            'month': 2,
-            'year': 2025,
+            'day': 24,
+            'month': 1,
+            'year': 2026,
             'hour': 12,
             'min': 0,
             'sec': 0
